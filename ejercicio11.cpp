@@ -1,3 +1,7 @@
+#include<iostream>
+#include<assert.h>
+
+using namespace std;
 
 bool esPalindromo(int n) {
     bool palindromo = true;
